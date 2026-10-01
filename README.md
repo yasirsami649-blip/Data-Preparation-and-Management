@@ -1,10 +1,23 @@
-markdown
-# Data Preparation and Management Project
-## Overview
-this repository contains the Poer BI project ('.pbix') for data Cleaning, transformation, and Integration.
-## Key Feature
-- **Data Cleaning & Transformation:** Cleaned raw dataset using power query.
-- **Data Modeling:** Established relationships and Structure Model.
-- **Dax & Visuals:** Created custom measures and interactive visuals dashboard.
-- ## File included
-- 'data preparation and management project.pbix' 
+# Product & Supplier Data Preparation | Power BI
+
+Power BI data preparation and modeling project focused on combining supplier data from different regions and connecting it with product information.
+
+## Key Features
+
+- Combined North America, Asia & Europe supplier data
+- Created a Global Supplier table using Power Query
+- Merged Product and Supplier data using Product ID
+- Data cleaning and transformation
+- Data type and value standardization
+- Data modeling and relationships
+
+## Tools Used
+
+- Power BI
+- Power Query
+- Data Modeling
+- Data Transformation
+
+## Project File
+
+The Power BI project is included in this repository as a `.pbix` file.
